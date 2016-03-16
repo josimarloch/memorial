@@ -1,0 +1,1 @@
+Assim que todos os bugs do BRANCH forem resolvidos, a pasta é copiada para o TAGS. E a versão final é liberada. Nada mais é modificado nessa versão.

@@ -1,0 +1,3 @@
+Quando a equipe de desenvolvimento decide que a versão está pronta,
+uma cópia é feita com o nome da versão (Ex.: 1.0, 2.1 etc.) na pasta BRANCHES. 
+Essa versão é testada exaustivamente, e nada novo é criado. Apenas bugs são resolvidos.

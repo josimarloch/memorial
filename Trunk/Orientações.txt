@@ -1,0 +1,1 @@
+Aqui é onde vão todos os commits do dia-a-dia. Os desenvolvedores enviam suas revisões diretametente para essa pasta.
