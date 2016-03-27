@@ -1,0 +1,46 @@
+Análise PBR
+Perspectiva do Projetista - Memorial
+
+Horário de Início : 1:00 da manhã, 27 de março de 2016
+
+ Questões a serem respondidas:
+
+ 1) Não, o sistema deveria definir duas perspectivas de usabilidadade e suas funções bases, sendo elas:
+
+ - Funções básicas pela perspectiva de quem vai criar o memorial:
+  *logar no sistema;
+  *adicionar informações pessoais básicas;
+  *recuperar senha;
+  *trocar senha/dados de login;
+  *gerar documento HTML com documentos e histórico;
+
+ - Funções básicas pela perspectiva do contratante:
+ *Nenhuma dessas especificações foram definidas no documento
+ *Não especifica se é possível gerar documento HTML de outras pessoas e modificá-los
+ *Falta de segurança
+ *Não define forma de análisar a veracidade dos documentos adicionados por terceiros e nem pelo próprio usuário
+ *Interface gráfica não definida, portanto a navegação pode ser difícil e não-intuitiva
+
+ Porém, como o documento não especifica nenhuma delas, existe base para crer que o programa será um aplicativo para uso pessoal, e não algo semelhante a uma rede social.
+ Portanto, é difícil definir quais serão os requisitos e quais não serão, pois não é possível analisar todo o escopo do projeto, que pode ser bastante vasto ou extremamente simples.
+ Esse quesito deve ser descutido com o grupo, para que não se perca muito tempo na fase de diagramas.
+
+2)Como citado anteriormente, nenhuma interface entre as perspectivas citadas foram definidas, porem, os usuários básicos estão bastante claros e consistentes entre sí.
+Ou seja, apenas uma parte do sistema é projetável a partir do documento de especificação.
+
+3)Parcialmente, pois diversas funcionalidades do sistema estão ausentes no documento, porém o que existe está definido com bastante claridade e por serem extremamente simples e atômicas, não existe necessidade de forte conexão entre as funções.
+
+4-5)Não, ja que metade das funções necessárias para o funcinamento do sistema não estão especificadas para o caso dos usuários, como vai ficar a navegação no sistema para aqueles que querem contratar alguem com base nesse memorial?
+Além disso, como citado anteriormente, não existe definição de quem pode gerar um documento HTML com suas informações e como isso deve ser controlado.
+
+6-7)Sim, principalmente com questão à segurança do sistema:
+*Como verificar a veracidade dos documentos aqui inseridos?
+*Como previnir roubo de informação?
+*Quem pode acessar os documentos colocados no sistema?
+*O sistema será implementado como um sistema on-line como o CVlattes ou apenas como um aplicativo desktop?
+*Se for apenas um aplicativo desktop, então muitas dessas questões de segurança mudam, ja que não existe navegação entre memoriais e roubo de informação.
+
+Nenhuma dessas funcionalidades/detalhes estão especificados no documento.
+
+
+Fim da Seção - 1:55 da manhã, 27 de março de 2016
