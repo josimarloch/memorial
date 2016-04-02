@@ -21,7 +21,7 @@ recuperação mal especificada, defeito.).
 
 rf5.Alterar os dados de acordo com as formas listadas no rf 2.1.*.
 
-RF6:T estar, para cada campo:
+RF6:Testar, para cada campo:
 6.1.*.Campo em branco, cadeia longa; (não especificado corretamente como
 deverá ser adicionado - defeito)
 6.2.(Não especificado como os dados serão entrados)
@@ -38,3 +38,16 @@ deverá ser adicionado - defeito)
 6.13.(Não especificado como os dados serão entrados)
 6.14.(Não especificado como os dados serão entrados)
 6.15.(Não especificado como os dados serão entrados)
+**Não houve especificação da entrada de nenhum dos dados, então os
+testes são sujeitos a forma que a interface for criada. isto é um
+defeito da da documentação.
+
+RF7:Envio de documentos em formatos incompatíveis ou de tamanhos muito
+destoantes;
+
+rf8.Vide rf6.
+
+RF9:Gerar o documento e conferir se foi gerado corretamente. Usar em
+conjunto com os testes anteriores.
+
+RU3:Tentar acessar sem autenticação.

@@ -182,26 +182,26 @@ RF8: O Sistema deve permitir a alteração do memorial para que o usuário atualize
 RF9: O Sistema deve gerar um documento HTML com todo o histórico de experiência profissional do usuário, bem como seus documentos comprobatórios. (E)
 
 3.2 Requisitos de Usabilidade
- 
+
 RU01: O sistema deve ser inteligível;
 RU02: O sistema deve possuir interface gráfica;
 RU03: O sistema deve exigir autenticação para utilização de todas as suas funcionalidades.
- 
+
 3.3 Requisitos de Manutenibilidade
- 
+
 RM01: O sistema deve ser de fácil manutenção;
 RM02: A arquitetura do sistema deve ser planejada de tal forma a facilitar a extensão do mesmo;
 RM03: Os artefatos devem ser produzidos e mantidos de modo a manter a consistência entre eles;
 
 3.4 Requisitos de Desempenho
- 
+
 RD01: O sistema deve responder ao usuário em, no máximo, 5 segundos. Para casos em que isso não seja possível o usuário deve ser avisado.
 3.5 Outros Requisitos
- 
+
 OR01: O Sistema Memorial deve ser desenvolvido para ser utilizado em ambiente baseado no Linux, Windows 7 ou superior.
 
 
 
 
-        
+
 1
