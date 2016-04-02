@@ -1,0 +1,41 @@
+﻿PBR Projetista - Projeto 3
+
+Luan Bodner
+
+
+Horário de Inicio 16:35
+
+
+
+Respostas das guidelines:
+
+1.Sim, o funcionamento básico do sistema foi bem estabelecido, porém as especificações estão bastante simplísticas e redundantes quanto o funcionamento.
+
+
+2.Não todas, muitas coisas são deixadas para o programador decidir ou para o projetista analisar o quão profundo vai ser a especificação e o funcionamento do projeto.
+
+
+3.Sim, já que todos os dados do usuário são bem especificados e os dados que o usuário pode modificar e adicionar foram explicados nos requisitos funcionais do sistema.
+
+
+4.Sim, como dito anteriormente, o projeto é bastante simples quanto ao seu escopo, não existindo comunicação entre os usuário pela plataforma. O único contato que terceiros podem ter com as informações do usuário é pelo documento HTML gerado pelo próprio usuário.
+
+5.Dependendo do entendimento do escopo do projeto, é necessário criar interfaces entre usuários e seus documentos pessoais.Portanto, neste aspecto em particular a documentação está incompleta.
+
+
+6.Principalmente a comunicação entre os usuários e a privacidade de cada um, porém, como a documentação não especifica nada, desconsideramos essa parte do projeto.
+
+
+7.Sim, a documentação cita exemplos de funcionamento de outras plataformas bastante conhecidas para criar o projeto.
+
+
+
+
+Horário de Término de sessão: 17:04
+
+Horário de Início 10:05
+
+Continuação do Diagrama:Diagrama Construído
+
+Horário de Término 10:21
+
