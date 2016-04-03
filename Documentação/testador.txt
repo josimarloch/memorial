@@ -1,3 +1,8 @@
+Testador
+
+02/04/2016: 14:00 - 18:00
+
+
 Casos de teste:
 RF1. Cadastrar pelo menos três contas. Efetuar testes específicos: nome
 em branco, senha em branco. Testar também com um nome e senha bastante
