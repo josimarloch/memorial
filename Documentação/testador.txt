@@ -1,0 +1,58 @@
+Testador
+
+02/04/2016: 14:00 - 18:00
+
+
+Casos de teste:
+RF1. Cadastrar pelo menos três contas. Efetuar testes específicos: nome
+em branco, senha em branco. Testar também com um nome e senha bastante
+longo.
+- Faltou especificação de tamanho mínimo e máximo.
+
+RF1.2:Tentar registrar com os seguintes testes em cada campo:
+2.1.1: campo em branco, campo com grande quantidade de caracteres;
+2.1..2. Data em formatos incorretos; datas futuras; datas passadas - mais de 150 anos.
+2.1.3.Se aberto, usar letras aleatórias
+2.1.4.Testar cpfs inválidos e fora da máscara; em branco; campos longos.
+2.1.5. Em branco. Campos longos.
+2.1.7. Informações em branco, grandes demais,;
+
+RF3. Testar combinações de campos em branco em ranco, e só cada um deles
+em branco. Testar usuários com senhas corretas e incorretas, usuários
+existentes e inexistentes, admin admin.
+
+rf4.Tentar recuperar a senha para usuários de outros. (forma de
+recuperação mal especificada, defeito.).
+
+rf5.Alterar os dados de acordo com as formas listadas no rf 2.1.*.
+
+RF6:Testar, para cada campo:
+6.1.*.Campo em branco, cadeia longa; (não especificado corretamente como
+deverá ser adicionado - defeito)
+6.2.(Não especificado como os dados serão entrados)
+6.3.(Não especificado como os dados serão entrados)
+6.4.(Não especificado como os dados serão entrados)
+6.5.(Não especificado como os dados serão entrados)
+6.6.(Não especificado como os dados serão entrados)
+6.7.(Não especificado como os dados serão entrados)
+6.8.(Não especificado como os dados serão entrados)
+6.9.(Não especificado como os dados serão entrados)
+6.10.(Não especificado como os dados serão entrados)
+6.11.(Não especificado como os dados serão entrados)
+6.12.*.(Não especificado como os dados serão entrados)
+6.13.(Não especificado como os dados serão entrados)
+6.14.(Não especificado como os dados serão entrados)
+6.15.(Não especificado como os dados serão entrados)
+**Não houve especificação da entrada de nenhum dos dados, então os
+testes são sujeitos a forma que a interface for criada. isto é um
+defeito da da documentação.
+
+RF7:Envio de documentos em formatos incompatíveis ou de tamanhos muito
+destoantes;
+
+rf8.Vide rf6.
+
+RF9:Gerar o documento e conferir se foi gerado corretamente. Usar em
+conjunto com os testes anteriores.
+
+RU3:Tentar acessar sem autenticação.

@@ -19,21 +19,21 @@ Presidente Prudente
 
 Índice
 Sumário
-1.1	Propósito do Documento de Requisitos	3
-1.2	Escopo do Produto	3
-1.3	Abreviações	3
-1.4	Visão Geral do Restante do Documento	3
-2.1	Perspetiva do Produto	4
-2.1.1 Interfaces com outros Sistemas.	4
-2.1.2 Interface com o Usuário	4
-2.1.4 Interface de Software	4
-2.2	Funções do Produto	4
-2.3	Características do Usuário	4
-2.4	Restrições Gerais	4
-3.2 Requisitos de Usabilidade	6
-3.3 Requisitos de Manutenibilidade	6
-3.4 Requisitos de Desempenho	6
-3.5 Outros Requisitos	6
+1.1        Propósito do Documento de Requisitos        3
+1.2        Escopo do Produto        3
+1.3        Abreviações        3
+1.4        Visão Geral do Restante do Documento        3
+2.1        Perspetiva do Produto        4
+2.1.1 Interfaces com outros Sistemas.        4
+2.1.2 Interface com o Usuário        4
+2.1.4 Interface de Software        4
+2.2        Funções do Produto        4
+2.3        Características do Usuário        4
+2.4        Restrições Gerais        4
+3.2 Requisitos de Usabilidade        6
+3.3 Requisitos de Manutenibilidade        6
+3.4 Requisitos de Desempenho        6
+3.5 Outros Requisitos        6
 
 
 
@@ -52,11 +52,15 @@ Sumário
 1 Introdução
 1.1 Propósito do Documento de Requisitos
 
-    O propósito deste documento de especificação de requisitos é definir os requisitos do Sistema Memorial, que tem como objetivos principais auxiliar seus usuários a relatarem suas atividades profissionais, tendo a oportunidade de, posteriormente, apresentá-las a terceiros para que estes o avaliem.
+    O propósito deste documento de especificação de requisitos é definir os requisitos do Sistema Memorial, que tem como objetivos principais auxiliar seus usuários 
+a relatarem suas atividades profissionais, tendo a oportunidade de, posteriormente, apresentá-las a terceiros para que estes o avaliem.
     
 1.2 Escopo do Produto
     
-    O Sistema de Memorial deve auxiliar o usuário a criar um memorial, que se assemelha a um curriculum vitae, contudo, escrito de forma discursiva. Memoriais são apresentados em concursos para ingresso e promoção na carreira docente e em exames de seleção ou de qualificação, por isso o sistema registrará as informações profissionais, em particular, a descrição das atividades docentes e as apresentará em um resumo. Além dessas informações profissionais, o sistema deverá permitir o anexo de seus documentos comprobatórios, bem como prover a possibilidade de gerar um HTML com essas informações e documentos. 
+    O Sistema de Memorial deve auxiliar o usuário a criar um memorial, que se assemelha a um curriculum vitae, contudo, escrito de forma discursiva. Memoriais são 
+apresentados em concursos para ingresso e promoção na carreira docente e em exames de seleção ou de qualificação, por isso o sistema registrará as informações profissionais, 
+em particular, a descrição das atividades docentes e as apresentará em um resumo. Além dessas informações profissionais, o sistema deverá permitir o anexo de seus 
+documentos comprobatórios, bem como prover a possibilidade de gerar um HTML com essas informações e documentos. 
 
 1.3  Abreviações
     
@@ -81,30 +85,31 @@ Este documento está organizado da seguinte forma:
 2 Descrição Geral do Sistema
        
 2.1 Perspetiva do Produto
-    
-     2.1.1 Interfaces com outros Sistemas. 
 
-	Este sistema deverá permitir gerar um HTML do memorial criado.
-    
+     2.1.1 Interfaces com outros Sistemas.
+
+        Este sistema deverá permitir gerar um HTML do memorial criado.
+
 2.1.2 Interface com o Usuário
-    
+
     Esta seção foi deixada a cargo do programador.
 
-    
+
     2.1.3 Interface de Hardware
-    
+
     Não há.
 
 2.1.4 Interface de Software
 
-	Não há.
+        Não há.
 2.2 Funções do Produto
-    
+
     O sistema tem como objetivo auxiliar o usuário na criação de memoriais.
-    
+
 2.3 Características do Usuário
     
-    O Sistema Memorial é destinado a usuários que desejem criar um memorial, tais usuários devem ter conhecimento na operação de sistemas MS-Windows e/ou Linux e serem aptos a realizarem operações de criação e edição de texto.
+    O Sistema Memorial é destinado a usuários que desejem criar um memorial, tais usuários devem ter conhecimento na operação de sistemas MS-Windows e/ou Linux e 
+serem aptos a realizarem operações de criação e edição de texto.
     
 2.4 Restrições Gerais
     
@@ -116,7 +121,7 @@ Este documento está organizado da seguinte forma:
 
 RF1: O Sistema deve permitir ao usuário o registro de uma conta para gerenciar seu currículo. A conta deverá ser constituída por um nome de usuário e senha. (E)
 
-                RF1.2 As seguintes informações do usuário devem ser registradas     
+                RF1.2 As seguintes informações do usuário devem ser registradas
                 no momento da criação da conta: (E)
 1. Nome
 2. Data de nascimento
@@ -177,27 +182,26 @@ RF8: O Sistema deve permitir a alteração do memorial para que o usuário atualize
 RF9: O Sistema deve gerar um documento HTML com todo o histórico de experiência profissional do usuário, bem como seus documentos comprobatórios. (E)
 
 3.2 Requisitos de Usabilidade
- 
+
 RU01: O sistema deve ser inteligível;
 RU02: O sistema deve possuir interface gráfica;
 RU03: O sistema deve exigir autenticação para utilização de todas as suas funcionalidades.
- 
+
 3.3 Requisitos de Manutenibilidade
- 
+
 RM01: O sistema deve ser de fácil manutenção;
 RM02: A arquitetura do sistema deve ser planejada de tal forma a facilitar a extensão do mesmo;
 RM03: Os artefatos devem ser produzidos e mantidos de modo a manter a consistência entre eles;
 
 3.4 Requisitos de Desempenho
- 
+
 RD01: O sistema deve responder ao usuário em, no máximo, 5 segundos. Para casos em que isso não seja possível o usuário deve ser avisado.
 3.5 Outros Requisitos
- 
+
 OR01: O Sistema Memorial deve ser desenvolvido para ser utilizado em ambiente baseado no Linux, Windows 7 ou superior.
 
 
 
 
-	
-1
 
+1
