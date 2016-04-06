@@ -1,0 +1,10 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {0.1}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {0.2}Fun\IeC {\c c}\IeC {\~o}es de usu\IeC {\'a}rio}{2}
+\contentsline {section}{\numberline {0.3}Quest\IeC {\~o}es de usu\IeC {\'a}rio}{2}
+\contentsline {subsection}{\numberline {0.3.1}Todas as fun\IeC {\c c}\IeC {\~o}es necess\IeC {\'a}rias para escrever os cen\IeC {\'a}rios est\IeC {\~a}o especificadas no documento de requisitos ou na especifica\IeC {\c c}\IeC {\~a}o funcional?}{2}
+\contentsline {subsection}{\numberline {0.3.2}As condi\IeC {\c c}\IeC {\~o}es iniciais para definir (iniciar) os cen\IeC {\'a}rios est\IeC {\~a}o claras e corretas?}{2}
+\contentsline {subsection}{\numberline {0.3.3}As interfaces entre as fun\IeC {\c c}\IeC {\~o}es est\IeC {\~a}o bem definidas e compat\IeC {\'\i }veis (por ex., as entradas de uma fun\IeC {\c c}\IeC {\~a}o t\IeC {\^e}m liga\IeC {\c c}\IeC {\~a}o com as sa\IeC {\'\i }das da fun\IeC {\c c}\IeC {\~a}o anterior?)}{2}
+\contentsline {subsection}{\numberline {0.3.4}Voc\IeC {\^e} consegue chegar num estado do sistema que deve ser evitado (por ex., por raz\IeC {\~o}es de seguran\IeC {\c c}a)?}{3}
+\contentsline {subsection}{\numberline {0.3.5}Os cen\IeC {\'a}rios podem fornecer diferentes respostas dependendo de como a especifica\IeC {\c c}\IeC {\~a}o \IeC {\'e} interpretada?}{3}
+\contentsline {subsection}{\numberline {0.3.6}A especifica\IeC {\c c}\IeC {\~a}o funcional faz sentido de acordo com o que voc\IeC {\^e} conhece sobre essa aplica\IeC {\c c}\IeC {\~a}o ou sobre o que foi especificado em uma descri\IeC {\c c}\IeC {\~a}o geral?}{3}
